@@ -1,10 +1,10 @@
 # Proyecto de Scraping y Análisis de Precios de Alquiler de Departamentos en Facebook Marketplace
 
-Este proyecto tiene como objetivo obtener y analizar información sobre los precios promedio de alquiler de departamentos en Lima a partir de anuncios en Facebook Marketplace. Utiliza técnicas de web scraping para recopilar datos relevantes y visualiza los resultados en un gráfico de barras.
+Este proyecto tiene como objetivo obtener y analizar información sobre los precios promedio de alquiler de departamentos en Lima a partir de anuncios en Facebook Marketplace. Utilizo técnicas de web scraping para recopilar datos relevantes y visualiza los resultados en un gráfico de barras.
 
 ## Descripción del Proyecto
 
-En este proyecto, hemos utilizado Python y diversas bibliotecas, como Selenium y BeautifulSoup, para automatizar la navegación en Facebook Marketplace y extraer información de los anuncios de alquiler de departamentos. Hemos definido parámetros como el precio mínimo, el precio máximo y el número de días desde la publicación, lo que nos permite obtener datos más específicos.
+En este proyecto, he utilizado Python y diversas bibliotecas, como Selenium y BeautifulSoup, para automatizar la navegación en Facebook Marketplace y extraer información de los anuncios de alquiler de departamentos. He definido parámetros como el precio mínimo, el precio máximo y el número de días desde la publicación, lo que permite obtener datos más específicos.
 
 Los pasos clave del proyecto incluyen:
 
