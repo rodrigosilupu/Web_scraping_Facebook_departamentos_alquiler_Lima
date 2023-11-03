@@ -55,4 +55,4 @@ Siéntete libre de utilizar, modificar y distribuir el código como desees.
 
 ---
 
-¡Esperamos que este proyecto te resulte útil y te inspire a explorar más sobre scraping y análisis de datos!
+¡Espero que este proyecto te resulte útil y te inspire a explorar más sobre scraping y análisis de datos!
